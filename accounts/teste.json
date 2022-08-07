@@ -1,0 +1,9 @@
+{
+"name": "teste", 
+"password": "12345",
+"cash": 100,
+"divida": 0,
+"turns": 0,
+"totalEarnings": 0,
+"totalLost": 0
+}
